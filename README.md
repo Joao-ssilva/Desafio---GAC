@@ -1,17 +1,18 @@
-Teste exploratório 
+# Desafio Técnico de QA - Análise do Site Bolt
 
-# Desafio Técnico QA - Análise do Site Bolt
+Este repositório documenta a execução e os resultados do desafio técnico para a posição de Analista de QA na Bolt, focado na avaliação funcional e de usabilidade do site da empresa.
 
-Este repositório contém a documentação e os artefatos gerados para o desafio técnico de Quality Assurance da empresa Bolt.
+## 🎯 Objetivo do Desafio
 
-O projeto consistiu em uma análise exploratória do site da companhia, com foco na identificação e documentação de bugs, na escrita de cenários de teste em Gherkin e na elaboração de um relatório com sugestões de melhorias.
+O objetivo foi realizar um teste exploratório no site [bolt.com.br](https://bolt.com.br), com escopo inicial na seção "Institucional". A tarefa incluía:
+1.  Identificar e documentar bugs.
+2.  Escrever cenários de teste em Gherkin.
+3.  Elaborar um relatório com sugestões de melhorias (bônus).
 
-### Conteúdo:
-* `/Desafio QA GAC-1 - João Silva`: Relatório completo com a análise, bugs e sugestões.
-* `/Institucional.feature`: Cenários de teste em Gherkin.
-* `/evidencias`: Pasta com as capturas de tela dos bugs encontrados.
+## 📊 Principais Achados
 
-💻 Tecnologias
+A análise revelou uma quantidade significativa de bugs críticos, principalmente no rodapé do site, onde a maioria das seções está inoperante. Foi identificada uma grave inconsistência entre a navegação do menu superior (parcialmente funcional) e do rodapé (quase totalmente quebrado), apontando para falhas sistêmicas de manutenção e arquitetura da informação.
 
-Gherkin
-Teste Exploratório
+## 📂 Estrutura do Repositório
+
+* `Desafio QA GAC-1 - João Silva`: Documento consolidado contendo o detalhamento de todos os bugs, a análise das inconsistências e as sugestões de melhoria.
